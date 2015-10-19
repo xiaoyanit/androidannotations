@@ -1,7 +1,5 @@
-bin
-gen
-.apt_generated
-*.ipr
-*.iws
 *.iml
 *.idea
+.gradle
+local.properties
+build

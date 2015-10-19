@@ -1,7 +1,0 @@
-bin
-gen
-.apt_generated
-*.iml
-*.ipr
-*.iws
-*.idea
